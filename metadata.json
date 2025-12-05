@@ -1,0 +1,5 @@
+{
+  "name": "NiftyAI Strategist",
+  "description": "An AI-powered Indian stock market assistant that analyzes Nifty 50, Bank Nifty, and Nifty 500 data using weekly trends, news sentiment, sector analysis, and volume to suggest Buy/Sell strategies.",
+  "requestFramePermissions": []
+}
